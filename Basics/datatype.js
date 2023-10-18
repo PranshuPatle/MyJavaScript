@@ -4,5 +4,14 @@
 
 // code should be readable, professional
 
+// datatype - string, number - integer, float - integer, boolean
+
+// number
+// string
+// boolean
+// null - empty (standalone value)
+// undefined 
+
+
 
 
