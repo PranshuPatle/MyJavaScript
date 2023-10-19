@@ -6,11 +6,26 @@
 
 // datatype - string, number - integer, float - integer, boolean
 
+// Primitive Data Type
 // number
 // string
 // boolean
 // null - empty (standalone value)
 // undefined 
+// symbol (use for unique)
+
+//Object 
+
+
+// typeof - define the type of the value/data
+console.log(typeof "gfhfghf"); // string datatype
+console.log(typeof null); // type of null is object
+console.log(typeof undefined); // type of undefined is undefined
+
+
+
+
+
 
 
 
