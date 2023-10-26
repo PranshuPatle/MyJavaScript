@@ -160,6 +160,15 @@ console.log(typeof Function);
 
 ////////////////////////////////////////
 
+//Memory allocation
+
+//stack Memory - primitive
+//heap memory - nonprimitive
+
+////////////////////////////////////////
+
+//String
+
 
 
 
