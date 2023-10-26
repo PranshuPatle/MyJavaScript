@@ -78,6 +78,47 @@ console.log(typeof booleanconversion)
 
 ///////////////////////////////////////////////////
 
+// OPERATIONS
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log (2*2)
+// console.log(2/2)
+// console.log(2**3)
+// console.log(2%3)
+
+// complex situation 
+
+// assignment operator 
+
+// postfix = incremental - x++ , decrement - x--
+// prefix - ++x, --x
+
+let xx = 3;
+let yy = xx++;
+
+console.log(xx + "  " + yy);
+
+//////////////////////////////////////
+
+let xy = 3;
+let yz = ++xy;
+
+console.log(xy + "  " + yz);
+
+////////////////////////////////////////
+
+//Comparison
+
+///////////////////////////////////////
+
+
+
+
+
+
+
+
 
 
 
