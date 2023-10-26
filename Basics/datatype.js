@@ -112,6 +112,62 @@ console.log(xy + "  " + yz);
 
 ///////////////////////////////////////
 
+//Primitive & non-Primitive datatype - store & access data in memory
+
+//call by value or call by reference
+
+// number
+// string
+// boolean
+// null - object
+// undefined
+// symbol - value unique - function
+
+// Big Int - scientific value - function
+
+// Array - function
+// Object - function
+// Function - function
+
+//////////////////////////////////////
+
+//symbol data type
+
+let u_id = Symbol("123");
+
+let l_id = Symbol("123");
+
+console.log(u_id);
+console.log(l_id);
+
+console.log(u_id == l_id);
+
+////////////////////////////////////////
+
+let BigIntt = 867675564654564n;
+
+console.log(BigIntt);
+
+///////////////////////////////////////
+
+console.log(typeof BigInt);
+console.log(typeof Symbol);
+console.log(typeof null);
+console.log(typeof undefined);
+console.log(typeof Array);
+console.log(typeof Object);
+console.log(typeof Function);
+
+////////////////////////////////////////
+
+
+
+
+
+
+
+
+
 
 
 
